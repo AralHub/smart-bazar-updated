@@ -1,0 +1,2672 @@
+{
+	"data": [
+		{
+			"id": 11190,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/2",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11191,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/3",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11192,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/4",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11193,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/5",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11194,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/6",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11195,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/7",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11196,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/8",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11197,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/9",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11198,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/10",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11199,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/11",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11200,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/12",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11201,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/13",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11202,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/14",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11203,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/15",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11204,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/16",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11205,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/17",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11206,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/18",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11207,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/19",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11208,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/20",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11209,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/21",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11210,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/22",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11211,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/23",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11212,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/24",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11213,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/25",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11214,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/26",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11215,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/27",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11216,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/28",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11217,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/29",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11218,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/30",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11219,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/31",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11220,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/32",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11221,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/33",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11222,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/34",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11223,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/35",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11224,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/36",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11225,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/37",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11226,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/38",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11227,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/39",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11228,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/40",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11229,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/41",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11230,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/42",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11231,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/43",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11232,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/44",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11233,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/45",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11234,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/46",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11235,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/47",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11236,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/48",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11237,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/49",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11238,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/50",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11239,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/51",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11240,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/52",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11241,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/53",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11242,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/54",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11243,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/55",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11244,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/56",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11245,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/57",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11246,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/58",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11247,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/59",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11248,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/60",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11249,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/61",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11250,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/62",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11251,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/63",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11252,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/64",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11253,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/65",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11254,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/66",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11255,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/67",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11256,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/68",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11257,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/69",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11258,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/70",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11259,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/71",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11260,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/72",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11261,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/73",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11262,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/74",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11263,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/75",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11264,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/76",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11265,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/77",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11266,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/78",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11267,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/79",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11268,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/80",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11269,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/81A",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11270,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/82",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11271,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/83",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11272,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/84",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11273,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/85",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11274,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/86",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11275,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/87",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11276,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/88",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11277,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/89",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11278,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/90",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11279,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/91",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11280,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/93",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 11281,
+			"market_id": 21,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 107,
+			"block": {
+				"id": 107,
+				"name": "block6",
+				"price": null,
+				"market_id": 21,
+				"number_of_open_air_places": null
+			},
+			"name": "41/53A",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"payments_sum_amount": null,
+			"month_payments_count": 0,
+			"is_payment_success": false,
+			"area": null,
+			"is_rent": false
+		}
+	]
+}

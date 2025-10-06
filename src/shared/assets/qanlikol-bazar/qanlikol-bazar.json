@@ -1,0 +1,7129 @@
+{
+	"data": [
+		{
+			"id": 4164,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "1",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4165,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "2",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4166,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "3",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4167,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "4",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4168,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "5",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4169,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "6",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4170,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "7",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4171,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "8",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4172,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "9",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4173,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "10",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4174,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "11",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4175,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "12",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4176,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "13",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4177,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "14",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4178,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "15",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4179,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "16",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4180,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "17",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4181,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "18",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4182,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "19",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4183,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "20",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4184,
+			"market_id": 11,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 41,
+			"block": {
+				"id": 41,
+				"name": "block1",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "21",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4185,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "1",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4186,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "2",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4187,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "3",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4188,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "4",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4189,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "5",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4190,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "6",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4191,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "7",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4192,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "8",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4193,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "9",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4194,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "10",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4195,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "11",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4196,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "12",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4197,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "13",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4198,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "14",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4199,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "15",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4200,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "16",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4201,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "17",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4202,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "18",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4203,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "19",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4204,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "20",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4205,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "21",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4206,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "22",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4207,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "23",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4208,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "24",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4209,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "25",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4210,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "26",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4211,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "27",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4212,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "28",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4213,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "29",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4214,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "30",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4215,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "31",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4216,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "32",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4217,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "33",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4218,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "34",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4219,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "35",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4220,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "36",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4221,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "37",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4222,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "38",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4223,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "39",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4224,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "40",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4225,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "41",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4226,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "42",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4227,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "43",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4228,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "44",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4229,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "45",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4230,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "46",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4231,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "47",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4232,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "48",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4233,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "49",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4234,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "50",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4235,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "51",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4236,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "52",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4237,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "53",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4238,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "54",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4239,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "55",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4240,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "56",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4241,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "57",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4242,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "58",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4243,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "59",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4244,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "60",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4245,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "61",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4246,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "62",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4247,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "63",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4248,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "64",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4249,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "65",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4250,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "66",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4251,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "67",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4252,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "68",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4253,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "69",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4254,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "70",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4255,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "71",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4256,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "72",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4257,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "73",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4258,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "74",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4259,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "75",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4260,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "76",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4261,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "77",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4262,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "78",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4263,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "79",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4264,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "80",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4265,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "81",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4266,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "82",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4267,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "83",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4268,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "84",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4269,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "85",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4270,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "86",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4271,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "87",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4272,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "88",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4273,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "89",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4274,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "90",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4275,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "91",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4276,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "92",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4277,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "93",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4278,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "94",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4279,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "95",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4280,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "96",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4281,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "97",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4282,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "98",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4283,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "99",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4284,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "100",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4285,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "101",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4286,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "102",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4287,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "103",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4288,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "104",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4289,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "105",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4290,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "106",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4291,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "107",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4292,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "108",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4293,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "109",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4294,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "110",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4295,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "111",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4296,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "112",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4297,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "113",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4298,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "114",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4299,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "115",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4300,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "116",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4301,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "117",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4302,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "118",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4303,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "119",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4304,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "120",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4305,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "121",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4306,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "122",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4307,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "123",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4308,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "124",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4309,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "125",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4310,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "126",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4311,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "127",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4312,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "128",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4313,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "129",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4314,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "130",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4315,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "131",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4316,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "132",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4317,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "133",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4318,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "134",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4319,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "135",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4320,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "136",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4321,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "137",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4322,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "138",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4323,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "139",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4324,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "140",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4325,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "141",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4326,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "142",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4327,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "143",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4328,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "144",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4329,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "145",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4330,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "146",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4331,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "147",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4332,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "148",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4333,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "149",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4334,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "150",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4335,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "151",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4336,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "152",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4337,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "153",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4338,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "154",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4339,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "155",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4340,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "156",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4341,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "157",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4342,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "158",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4343,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "159",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4344,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "160",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4345,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "161",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4346,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "162",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4347,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "163",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4348,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "164",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4349,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "165",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4350,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "166",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4351,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "167",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4352,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "168",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4353,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "169",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4354,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "170",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4355,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "171",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4356,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "172",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4357,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "173",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4358,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "174",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4359,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "175",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4360,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "176",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4361,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "177",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4362,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "178",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4363,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "179",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4364,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "180",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4365,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "181",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4366,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "182",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4367,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "183",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4368,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "184",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4369,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "185",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4370,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "186",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4371,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "187",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4372,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "188",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4373,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "189",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4374,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "190",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4375,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "191",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4376,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "192",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4377,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "193",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4378,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "194",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4379,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "195",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4380,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "196",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4381,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "197",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4382,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "198",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4383,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "199",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4384,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "200",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4385,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "201",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4386,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "202",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4387,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "203",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4388,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "204",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4389,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "205",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4390,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "206",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4391,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "207",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4392,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "208",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4393,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "209",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4394,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "210",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4395,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "211",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4396,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "212",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4397,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "213",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4398,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "214",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4399,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "215",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4400,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "216",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4401,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "217",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4402,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "218",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4403,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "219",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4404,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "220",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4405,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "221",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4406,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "222",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4407,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "223",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4408,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "224",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4409,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "225",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4410,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "226",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4411,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "227",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4412,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "228",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4413,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "229",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4414,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "230",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4415,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "231",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4416,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "232",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4417,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "233",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4418,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "234",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4419,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "235",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4420,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "236",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4421,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "237",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4422,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "238",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4423,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "239",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4424,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "240",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4425,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "241",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4426,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "242",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4427,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "243",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4428,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "244",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4429,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "245",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4430,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "246",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4431,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "247",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4432,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "248",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4433,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "249",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4434,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "250",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4435,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "251",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4436,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "252",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4437,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "253",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4438,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "254",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4439,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "255",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4440,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "256",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4441,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "257",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4442,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "258",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4443,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "259",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4444,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "260",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4445,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "261",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4446,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "262",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4447,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "263",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4448,
+			"market_id": 11,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 42,
+			"block": {
+				"id": 42,
+				"name": "block2",
+				"price": null,
+				"market_id": 11
+			},
+			"name": "264",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		}
+	]
+}

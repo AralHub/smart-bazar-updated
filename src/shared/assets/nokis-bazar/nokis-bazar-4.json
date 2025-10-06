@@ -1,0 +1,6054 @@
+{
+	"data": [
+		{
+			"id": 3121,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "202",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3122,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "193",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3123,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "192",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3124,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "210",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3125,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "209",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3126,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "194",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3127,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "191",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3128,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "189",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3129,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "187",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3130,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "188",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3131,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "154",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3132,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "150",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3133,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "190",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3134,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "152",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3135,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "156",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3136,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "165",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3137,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "153",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3139,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "186",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3142,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "136",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3143,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "138A",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3144,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "138",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3145,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "139",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3146,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "140",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3147,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "159",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3148,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "197",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3149,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "196",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3373,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "470",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3374,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "471",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3375,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "472",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3376,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "473",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3377,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "474",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3378,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "475",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3379,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "476",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3380,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "477",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3381,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "478",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3382,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "479",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3383,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "480",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3384,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "481",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3385,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "482",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3386,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "483",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3387,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "484",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3388,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "485",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3389,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "486",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3390,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "487",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3391,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "488",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3392,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "489",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3393,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "490",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3394,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "491",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3395,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "492",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3396,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "493",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3397,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "494",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3398,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "495",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3399,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "496",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3400,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "497",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3401,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "498",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3402,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "499",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3403,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "500",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3404,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "501",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3405,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "502",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3406,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "503",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3407,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "504",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3408,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "505",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3409,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "506",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3410,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "507",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3411,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "508",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3412,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "509",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3413,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "510",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3414,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "511",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3415,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "512",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3416,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "513",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3427,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "137",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3428,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "160",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": true
+		},
+		{
+			"id": 3748,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "430",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3749,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "431",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3750,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "570",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3751,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "432",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3752,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "433",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3753,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "434",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3754,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "435",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3755,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "436",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3756,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "437",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3757,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "438",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3758,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "161",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3759,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "439",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3760,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "440",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3761,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "441",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3762,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "442",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3763,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "443",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3764,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "444",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3765,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "445",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3766,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "446",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3767,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "447",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3768,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "448",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3769,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "449",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3770,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "450",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3771,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "451",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3772,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "452",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3773,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "453",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3774,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "454",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3775,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "455",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3776,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "456",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3777,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "457",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3778,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "458",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3779,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "459",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3780,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "460",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3781,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "461",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3782,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "462",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3783,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "463",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3784,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "464",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3785,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "465",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3786,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "466",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3787,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "467",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3788,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "468",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3789,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "469",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3790,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "514",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3791,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "515",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3792,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "516",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3793,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "517",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3794,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "518",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3795,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "519",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3796,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "520",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3797,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "155",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3798,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "521",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3799,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "522",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3800,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "523",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3801,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "524",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3802,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "525",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3803,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "526",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3804,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "527",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3805,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "528",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3806,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "20",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3807,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "21",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3808,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "22",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3809,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "156",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3810,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "529",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3811,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "25",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3812,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "26",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3813,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "530",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3814,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "28",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3815,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "29",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3816,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "30",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3817,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "430",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3818,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "431",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3819,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "570",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3820,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "432",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3821,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "433",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3822,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "434",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3823,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "435",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3824,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "436",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3825,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "437",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3826,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "438",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3827,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "161",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3828,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "439",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3829,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "440",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3830,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "441",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3831,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "442",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3832,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "443",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3833,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "444",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3834,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "445",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3835,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "446",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3836,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "447",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3837,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "448",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3838,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "449",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3839,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "450",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3840,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "451",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3841,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "452",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3842,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "453",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3843,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "454",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3844,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "455",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3845,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "456",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3846,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "457",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3847,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "458",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3848,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "459",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3849,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "460",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3850,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "461",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3851,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "462",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3852,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "463",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3853,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "464",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3854,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "465",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3855,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "466",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3856,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "467",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3857,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "468",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3858,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "469",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3859,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "514",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3860,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "515",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3861,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "516",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3862,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "517",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3863,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "518",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3864,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "519",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3865,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "520",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3866,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "155",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3867,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "521",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3868,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "522",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3869,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "523",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3870,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "524",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3871,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "525",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3872,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "526",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3873,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "527",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3874,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "528",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3875,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "20",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3876,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "21",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3877,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "22",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3878,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "156",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3879,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "529",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3880,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "25",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3881,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "26",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3882,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "530",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3883,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "28",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3884,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "29",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 3885,
+			"market_id": 1,
+			"place_type_id": 2,
+			"place_type": {
+				"id": 2,
+				"name": "Prilavka"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "30",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4094,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "531",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4095,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "532",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4096,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "533",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4097,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "534",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4098,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "535",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4099,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "536",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4100,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "537",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4101,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "538",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4102,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "539",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4103,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "540",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4104,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "541",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4105,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "542",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4106,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "543",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4107,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "544",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4108,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "545",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4109,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "546",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4110,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "547",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4111,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "548",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4112,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "162",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4113,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "549",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4114,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "550",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4115,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "551",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4116,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "552",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4117,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "553",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4118,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "554",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4119,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "555",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4120,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "556",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4121,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "557",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4122,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "558",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4123,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "559",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4124,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "560",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		},
+		{
+			"id": 4125,
+			"market_id": 1,
+			"place_type_id": 1,
+			"place_type": {
+				"id": 1,
+				"name": "Dúkán"
+			},
+			"product_type_id": null,
+			"block_id": 26,
+			"block": {
+				"id": 26,
+				"name": "Общий Блок 4",
+				"price": null,
+				"market_id": 1
+			},
+			"name": "561",
+			"price": null,
+			"seller_id": null,
+			"seller": null,
+			"payments_count": 0,
+			"payment": null,
+			"area": null,
+			"is_rent": false
+		}
+	]
+}
