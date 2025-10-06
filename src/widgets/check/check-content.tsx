@@ -126,6 +126,99 @@ const CheckContent = forwardRef<HTMLDivElement, { data: Payment }>(
 					{data?.created_at}
 				</strong>
 			</Flex>
+			{data.last_receipt && (
+				<>
+					{/* <Flex justify="space-between">
+						<span>ID:</span>
+						<strong>{data.last_receipt.id}</strong>
+					</Flex>
+					<Flex justify="space-between">
+						<span>Receipt category:</span>
+						<strong>{data.last_receipt.receipt_category}</strong>
+					</Flex>
+					<Flex justify="space-between">
+						<span>Biykarlangan:</span>
+						<strong>
+							{data.last_receipt.is_refund ? "Biykarlangan" : "Biykarlanbagan"}
+						</strong>
+					</Flex> */}
+
+					<Divider
+						variant="dashed"
+						style={{ marginBlock: 4 }}
+					/>
+
+					<h4 style={{ margin: "4px 0" }}>Tovarlar:</h4>
+					{data.last_receipt.items?.map((item, i) => (
+						<Flex
+							key={i}
+							vertical
+							style={{ marginBottom: 6 }}
+						>
+							<Flex justify="space-between">
+								<span>Nom:</span>
+								<strong>{item.Name}</strong>
+							</Flex>
+							<Flex justify="space-between">
+								<span>Narx:</span>
+								<strong>{formatPrice(item.Price)}</strong>
+							</Flex>
+							<Flex justify="space-between">
+								<span>QQS (%):</span>
+								<strong>{item.VATPercent}%</strong>
+							</Flex>
+							<Flex justify="space-between">
+								<span>QQS summa:</span>
+								<strong>{formatPrice(item.VAT)}</strong>
+							</Flex>
+							<Flex justify="space-between">
+								<span>SPIC:</span>
+								<strong>{item.SPIC}</strong>
+							</Flex>
+							{item.CommissionInfo?.TIN && (
+								<Flex justify="space-between">
+									<span>TIN:</span>
+									<strong>{item.CommissionInfo.TIN}</strong>
+								</Flex>
+							)}
+							<Divider
+								dashed
+								style={{ marginBlock: 4, borderColor: "#ccc" }}
+							/>
+						</Flex>
+					))}
+
+					<Flex justify="space-between">
+						<span>Naqd pul:</span>
+						<strong>{formatPrice(data.last_receipt.received_cash)}</strong>
+					</Flex>
+					<Flex justify="space-between">
+						<span>Karta orqali:</span>
+						<strong>{formatPrice(data.last_receipt.received_card)}</strong>
+					</Flex>
+					<Flex justify="space-between">
+						<span>Jami QQS:</span>
+						<strong>{formatPrice(data.last_receipt.total_VAT)}</strong>
+					</Flex>
+
+					<Flex justify="space-between">
+						<span>Terminal ID:</span>
+						<strong>{data.last_receipt.terminal_id}</strong>
+					</Flex>
+					<Flex justify="space-between">
+						<span>Chek raqami:</span>
+						<strong>{data.last_receipt.receipt_seq}</strong>
+					</Flex>
+					<Flex justify="space-between">
+						<span>Vaqt:</span>
+						<strong>{data.last_receipt.time}</strong>
+					</Flex>
+					<Flex justify="space-between">
+						<span>Fiscal sign:</span>
+						<strong>{data.last_receipt.fiscal_sign}</strong>
+					</Flex>
+				</>
+			)}
 			<Flex
 				justify={"center"}
 				align={"center"}
@@ -138,7 +231,7 @@ const CheckContent = forwardRef<HTMLDivElement, { data: Payment }>(
 					bordered={false}
 					type={"svg"}
 					size={90}
-					value={`${window.location.origin}/guest/payments/${data.id}`}
+					value={data.url}
 				/>
 			</Flex>
 			<Divider
@@ -158,14 +251,14 @@ export const thermalReceiptStyle = `
     size: 58mm auto;
     margin: 0;
   }
-  
+
   @media print {
     html, body {
       height: auto !important;
       margin: 0;
       padding: 0;
     }
-    
+
     body {
       -webkit-print-color-adjust: exact;
       color-adjust: exact;
@@ -178,7 +271,7 @@ export const thermal80mmStyle = `
     size: 80mm auto;
     margin: 2mm;
   }
-  
+
   @media print {
     body {
       font-size: 12px;
@@ -193,7 +286,7 @@ export const fixedHeightStyle = `
     height: 150mm;
     width: 58mm;
   }
-  
+
   @media print {
     html, body {
       height: 150mm;
@@ -207,7 +300,7 @@ export const minHeightStyle = `
     size: 58mm auto;
     margin: 0;
   }
-  
+
   @media print {
     html, body {
       min-height: 100mm; /* Минимальная высота */

@@ -92,6 +92,7 @@ export const usePaymentsColumns = (
 						<Flex
 							justify="center"
 							align="center"
+							style={{ marginRight: 5 }}
 						>
 							Biykarlandi
 						</Flex>
