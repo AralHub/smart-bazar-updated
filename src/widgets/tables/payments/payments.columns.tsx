@@ -1,8 +1,11 @@
+import { useState } from "react"
+import { LiaCashRegisterSolid } from "react-icons/lia"
+import { TbCancel, TbCashOff } from "react-icons/tb"
 import {
 	useDeletePaymentsMutation,
 	type Payment,
 } from "src/services/dashboard/payments"
-import { Flex, type TableColumnsType } from "src/shared/ui"
+import { Badge, Button, Flex, type TableColumnsType } from "src/shared/ui"
 import { formatPrice } from "src/shared/utils"
 import { DeleteButton } from "src/widgets/actions"
 import { CheckPrintButton } from "src/widgets/check"
@@ -11,9 +14,41 @@ export const usePaymentsColumns = (
 	paymentType: string,
 	isEmployee?: boolean
 ) => {
+	const [isModalOpen, setIsModalOpen] = useState(false)
+	const [selectedPayment, setSelectedPayment] = useState<Payment | undefined>(
+		undefined
+	)
 	const { mutate, isPending } = useDeletePaymentsMutation()
-
+	const toggleModal = (value: boolean, payment?: Payment) => {
+		setIsModalOpen(value)
+		if (payment) setSelectedPayment(payment)
+	}
 	const columns: TableColumnsType<Payment> = [
+		{
+			align: "center",
+			dataIndex: "is_completed",
+			render: (item) => (
+				<>
+					{item ? (
+						<Badge
+							status="success"
+							style={{
+								transform: "scale(2)",
+								transformOrigin: "center",
+							}}
+						/>
+					) : (
+						<Badge
+							status="error"
+							style={{
+								transform: "scale(2)",
+								transformOrigin: "center",
+							}}
+						/>
+					)}
+				</>
+			),
+		},
 		{
 			align: "center",
 			title: "Orin ati",
@@ -65,16 +100,14 @@ export const usePaymentsColumns = (
 			hidden: isEmployee,
 		},
 		{
-			title: "Sane",
-			dataIndex: "date",
-			key: "date",
-			// render: formatDate,
-		},
-		{
 			title: "Tolengen sane",
 			dataIndex: "created_at",
 			key: "created_at",
-			// render: formatDate,
+		},
+		{
+			title: "Kvitancia turi",
+			dataIndex: ["payment_category", "name"],
+			key: "payment_category",
 		},
 		{
 			fixed: "right",
@@ -88,32 +121,52 @@ export const usePaymentsColumns = (
 					align="center"
 					justify="flex-end"
 				>
-					{record.is_refund ? (
-						<Flex
-							justify="center"
-							align="center"
-							style={{ marginRight: 5 }}
-						>
-							Biykarlandi
-						</Flex>
+					{record.payment_method === 3 ||
+					record.payment_method === 4 ||
+					record.payment_category_id === 1 ? (
+						record.is_refund ? (
+							<>
+								<TbCashOff size={30} />
+							</>
+						) : (
+							<>
+								<DeleteButton
+									hiddenChildren={false}
+									icon={null}
+									disabled={isPending}
+									children={
+										<Flex
+											justify="center"
+											align="center"
+										>
+											<TbCancel size={20} />
+										</Flex>
+									}
+									okText="Biykarlaw"
+									cancelText="Biykarlamaw"
+									confirm={{
+										title: "Tolemdi biykarlaw?",
+										content: "Tolem biykarlanadi",
+										onConfirm: () => mutate(record.id),
+									}}
+								/>
+								<CheckPrintButton data={record} />
+							</>
+						)
+					) : record.payment_category_id === 2 ||
+					  record.payment_category_id === 3 ? (
+						<Button onClick={() => toggleModal(true, record)}>
+							<LiaCashRegisterSolid size={20} />
+						</Button>
 					) : (
-						<DeleteButton
-							hiddenChildren={false}
-							icon={null}
-							disabled={isPending}
-							children="Óshiriw"
-							confirm={{
-								title: "Tolemdi biykarlaw?",
-								content: "Tolem biykarlanadi",
-								onConfirm: () => mutate(record.id),
-							}}
-						/>
+						<>
+							<CheckPrintButton data={record} />
+						</>
 					)}
-					<CheckPrintButton data={record} />
 				</Flex>
 			),
 		},
 	]
 
-	return columns
+	return { columns, toggleModal, isModalOpen, selectedPayment }
 }

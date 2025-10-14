@@ -56,3 +56,6 @@ export const formatCustomDate = (
 	value?: string | Dayjs | null,
 	format: string = "YYYY-MM-DD"
 ) => dayjs(value).format(format)
+
+export const formatDateTime = (value?: string | Dayjs) =>
+	value ? dayjs(value).format("YYYY-MM-DD HH:mm:ss") : "-"

@@ -10,12 +10,16 @@ interface DeleteButtonProps extends ButtonProps {
 		onConfirm: () => void
 	}
 	hiddenChildren?: boolean
+	cancelText?: string
+	okText?: string
 }
 
 const DeleteButton: FC<DeleteButtonProps> = ({
 	confirm,
 	children,
 	hiddenChildren,
+	okText,
+	cancelText,
 	...props
 }) => {
 	const { modal } = useApp()
@@ -25,8 +29,8 @@ const DeleteButton: FC<DeleteButtonProps> = ({
 			title: confirm?.title || "Bul maǵlıwmatlardı óshiriw?",
 			content:
 				confirm?.content || "Ishindegi barlıq maǵlıwmatlar da óshiriledi.",
-			okText: "Óshiriw",
-			cancelText: "Biykarlaw",
+			okText: okText ?? "Óshiriw",
+			cancelText: cancelText ?? "Biykarlaw",
 			okButtonProps: {
 				danger: true,
 			},

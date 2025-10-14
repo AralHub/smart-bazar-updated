@@ -1,33 +1,22 @@
-import { useParams } from "@tanstack/react-router"
-import { InputNumber, Tabs, type TableColumnsType } from "antd"
+import { InputNumber } from "antd"
 import FormItem from "antd/es/form/FormItem"
 import dayjs from "dayjs"
-import { type FC, useEffect, useState } from "react"
-import {
-	type PaymentChange,
-	useCreatePaymentsMutation,
-} from "src/services/dashboard/payments"
-import { useGetServiceTypesQuery } from "src/services/dashboard/payments/service-types"
-import { useGetPlacesQuery, type Place } from "src/services/dashboard/places"
-import { useGetBlocksQuery } from "src/services/dashboard/places/blocks"
-import { useGetProductTypesQuery } from "src/services/dashboard/places/product-types"
+import { type FC } from "react"
+import { type PaymentChange } from "src/services/dashboard/payments"
 import {
 	Col,
 	DatePicker,
 	Flex,
 	Form,
-	type FormProps,
 	Row,
 	Segmented,
 	Select,
 	Spin,
-	Table,
 	Tag,
-	useForm,
-	useWatch,
 } from "src/shared/ui"
-import { formatDate, formatInputPrice } from "src/shared/utils"
-import { FormModal } from "src/widgets/form-modal"
+import { formatInputPrice } from "src/shared/utils"
+import { PaymentTable } from "./payment-table.form"
+import type { ReturnTypeOfUsePaymentForm } from "../../hooks/use-payment-form"
 
 const placeTypes = [
 	{ id: 1, name: "Dúkán" },
@@ -36,131 +25,31 @@ const placeTypes = [
 	{ id: 4, name: "Basqa" },
 ]
 
-const columns: TableColumnsType<Place> = [
-	{
-		title: "Orin ati",
-		dataIndex: "name",
-		key: "name",
-	},
-	{
-		title: "Tolem pul",
-		dataIndex: ["latest_payment", "amount"],
-		key: "amount",
-	},
-	{
-		title: "Tolem turi",
-		dataIndex: ["latest_payment", "payment_method_name"],
-		key: "payment_method_name",
-	},
-	{
-		title: "Block",
-		dataIndex: ["block", "name"],
-		key: "block",
-	},
-	{
-		title: "Orın túri",
-		dataIndex: ["place_type", "name"],
-		key: "place_type",
-	},
-	{
-		title: "Xizmetker",
-		dataIndex: ["latest_payment", "employee", "name"],
-		key: "employee_name",
-	},
-	{
-		title: "Sane",
-		dataIndex: ["latest_payment", "date"],
-		key: "date",
-	},
-	{
-		title: "Tolengen sane",
-		dataIndex: ["latest_payment", "created_at"],
-		key: "created_at",
-	},
-]
-
-const PaymentsForm: FC = () => {
-	const [form] = useForm<PaymentChange>()
-	const paymentType = useWatch("payment_type_id", form)
-	const blockId = useWatch("block_id", form)
-	const placeId = useWatch("place_id", form)
-	// const productTypeId = useWatch("product_type_id", form)
-	const { marketId } = useParams({
-		from: "/_layout/d/$districtId/m/$marketId/_admin-layout/payments",
-	})
-	const [search, setSearch] = useState("")
-
-	const {
-		data: places,
-		isLoading,
-		isFetching,
-	} = useGetPlacesQuery({
-		market_id: marketId,
-		place_type_id: paymentType,
-		block_id: blockId,
-		// product_type_id: productTypeId,
-		search,
-	})
-
-	const { data: blocks, isLoading: blocksLoading } = useGetBlocksQuery({
-		market_id: marketId,
-		per_page: 1000,
-		type: paymentType === 3 ? 4 : undefined,
-	})
-	const { data: productTypes, isLoading: productTypesLoading } =
-		useGetProductTypesQuery({
-			market_id: marketId,
-		})
-	const { data: serviceTypes, isLoading: serviceTypesLoading } =
-		useGetServiceTypesQuery({
-			market_id: marketId,
-		})
-
-	const {
-		mutate: addPayment,
-		isPending: addLoading,
-		isSuccess: addSuccess,
-	} = useCreatePaymentsMutation()
-
-	const onFinish: FormProps<PaymentChange>["onFinish"] = (values) => {
-		if (addLoading) return
-		if (values.date) {
-			values.date = formatDate(values.date)
-		}
-		addPayment(
-			{
-				...values,
-				market_id: marketId,
-			},
-			{
-				onSuccess: () => {
-					form.resetFields()
-				},
-			}
-		)
-	}
-	const latestPayment = places?.data.find(
-		(item) => item.block_id === blockId && item.id === placeId
-	)?.latest_payment
-	useEffect(() => {
-		if (latestPayment) {
-			form.setFieldsValue({
-				quantity: latestPayment.quantity,
-				amount: latestPayment.amount,
-				product_type_id: latestPayment.product_type_id,
-			})
-		} else {
-			form.resetFields(["quantity", "amount", "product_type_id"])
-		}
-	}, [latestPayment, form])
-
-	const Forma = () => {
-		return (
+const PaymentsForm: FC<ReturnTypeOfUsePaymentForm> = ({
+	blocks,
+	blocksLoading,
+	isFetching,
+	isLoading,
+	latestPayment,
+	onFinish,
+	paymentForm,
+	paymentType,
+	places,
+	productTypes,
+	productTypesLoading,
+	search,
+	serviceTypes,
+	serviceTypesLoading,
+	setSearch,
+	payment_category_id,
+}) => {
+	return (
+		<>
 			<Form
 				name={"payment-form"}
 				layout={"vertical"}
 				autoComplete={"off"}
-				form={form}
+				form={paymentForm}
 				size={"large"}
 				onFinish={onFinish}
 			>
@@ -354,39 +243,32 @@ const PaymentsForm: FC = () => {
 							/>
 						</FormItem>
 					</Col>
+					{Number(payment_category_id) === 2 && (
+						<Col
+							xs={24}
+							md={12}
+						>
+							<FormItem<PaymentChange>
+								name={"pay_amount"}
+								label={"Bastagi tólem"}
+								rules={[{ required: true }]}
+							>
+								<InputNumber
+									style={{ width: "100%" }}
+									formatter={formatInputPrice}
+									placeholder={"10,000"}
+								/>
+							</FormItem>
+						</Col>
+					)}
 				</Row>
-				{latestPayment && (
-					<Table
-						columns={columns}
-						dataSource={places.data}
-						rowKey={(res) => res.id}
-						pagination={false}
-						style={{ marginBottom: "20px" }}
-					/>
-				)}
 			</Form>
-		)
-	}
-
-	return (
-		<>
-			<FormModal
-				title={null}
-				form={form}
-				loading={addLoading}
-				success={addSuccess}
-				width={1200}
-			>
-				<Tabs
-					defaultActiveKey="1"
-					centered
-					items={[
-						{ key: "1", label: "Tólem", children: <Forma /> },
-						{ key: "2", label: "Kredit tólem", children: <Forma /> },
-						{ key: "3", label: "Avans tólem", children: <Forma /> },
-					]}
+			{latestPayment && (
+				<PaymentTable
+					data={places?.data}
+					isLoading={isLoading}
 				/>
-			</FormModal>
+			)}
 		</>
 	)
 }

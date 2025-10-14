@@ -11,6 +11,7 @@ import { Flex, Table, Tabs } from "src/shared/ui"
 import { DatePickerWithNow } from "src/widgets/date-picker-with-now"
 import { usePaymentsColumns } from "./payments.columns.tsx"
 import { AddButton } from "src/widgets/actions/index.ts"
+import { PaymentModalTable } from "./payment.modal.table.tsx"
 
 interface PaymentsTableProps {
 	employeeId?: string
@@ -45,7 +46,8 @@ const PaymentsTable: FC<PaymentsTableProps> = ({ employeeId }) => {
 		employee_id: employeeId,
 	})
 
-	const columns = usePaymentsColumns(paymentType, !!employeeId)
+	const { columns, isModalOpen, toggleModal, selectedPayment } =
+		usePaymentsColumns(paymentType, !!employeeId)
 
 	return (
 		<>
@@ -96,6 +98,12 @@ const PaymentsTable: FC<PaymentsTableProps> = ({ employeeId }) => {
 					pageSize,
 					onChange,
 				}}
+			/>
+			<PaymentModalTable
+				data={selectedPayment}
+				toggleModal={toggleModal}
+				loading={isLoading || isFetching}
+				isModalOpen={isModalOpen}
 			/>
 		</>
 	)

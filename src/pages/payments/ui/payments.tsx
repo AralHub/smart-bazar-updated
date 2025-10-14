@@ -3,7 +3,7 @@ import { type FC } from "react"
 import { useBreadcrumbsPaths } from "src/shared/hooks"
 import { PageHeader } from "src/widgets/page-header"
 import { PaymentsTable } from "src/widgets/tables"
-import { PaymentsForm } from "./forms"
+import { PaymentModal } from "./forms/payment-modal.form"
 
 const Payments: FC = () => {
 	const { districtId, marketId } = useParams({
@@ -22,7 +22,7 @@ const Payments: FC = () => {
 				title={"Tólemler"}
 				breadcrumbs={paths}
 			/>
-			<PaymentsForm />
+			<PaymentModal />
 			<PaymentsTable />
 		</>
 	)

@@ -28,46 +28,38 @@ export type Payment = {
 	date: string
 	created_at: string
 	is_refund: boolean
+	is_completed: boolean
 	url: string
 	qr_code_url: string
-	last_receipt: LastReceipt
+	last_receipt: Receipt
+	receipts: Receipt[]
+	payment_category_id: number
+	payment_category: {
+		id: number
+		name: string
+	}
 }
 
-export type PaymentChange = {
-	id?: number
-	place_id: number
-	amount: number
-	date: string | Dayjs
-	quantity: number
-
-	market_id?: number | string
-	service_type_id: number
-	payment_type_id: number
-	block_id: number
-	place_type_id: number
-	product_type_id: number
-}
-
-interface LastReceipt {
+export type Receipt = {
 	id: number
+	payment_id: number
 	receipt_category: number
-	is_refund: number
+	is_refund: 0 | 1
 	items: ReceiptItem[]
 	received_cash: number
 	received_card: number
 	total_VAT: number
+	total_amount: number
 	time: string
 	receipt_type: number
-	location: {
-		Latitude: number
-		Longitude: number
-	}
+	location: location
 	terminal_id: string
 	receipt_seq: number
 	date_time: string
 	fiscal_sign: string
 	qr_code_url: string
 	raw_response: string
+	payment_method: number
 }
 
 interface ReceiptItem {
@@ -88,4 +80,36 @@ interface ReceiptItem {
 	CommissionInfo: {
 		TIN: string
 	}
+}
+
+type location = {
+	Latitude: number
+	Longitude: number
+}
+
+export type PaymentChange = {
+	id?: number
+	place_id: number
+	block_id: number
+	amount: number
+	date: string | Dayjs
+	latitude?: number
+	longitude?: number
+	payment_category_id: number
+	pay_amount?: number
+	payment_type_id: number
+	service_type_id: number
+	product_type_id: number
+	payment_method: number
+	quantity: number
+	market_id?: number | string
+	place_type_id?: number
+}
+
+export type PaymentReceiptChange = {
+	payment_id: number
+	payment_method: number
+	amount: number
+	latitude?: number
+	longitude?: number
 }

@@ -34,6 +34,18 @@ const useCreatePaymentsMutation = () => {
 	})
 }
 
+export const useCreatePaymentReceiptMutation = () => {
+	return useCrudMutation({
+		mutationFn: paymentsService.createReceipt,
+		success: {
+			description: "Tolendi",
+		},
+		invalidate: {
+			queryKey: ["payments"],
+		},
+	})
+}
+
 const useEditPaymentsMutation = () => {
 	return useCrudMutation({
 		mutationFn: paymentsService.edit,
@@ -52,10 +64,20 @@ const useDeletePaymentsMutation = () => {
 	})
 }
 
+const useDeleteReceiptMutation = () => {
+	return useCrudMutation({
+		mutationFn: paymentsService.deleteReceipt,
+		invalidate: {
+			queryKey: ["payments"],
+		},
+	})
+}
+
 export {
 	useGetPaymentsQuery,
 	useGetPaymentsByIdQuery,
 	useCreatePaymentsMutation,
 	useEditPaymentsMutation,
 	useDeletePaymentsMutation,
+	useDeleteReceiptMutation,
 }

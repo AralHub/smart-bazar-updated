@@ -5,7 +5,11 @@ import type {
 	ResponseSingleData,
 } from "src/services/shared"
 import { api } from "src/shared/api"
-import type { Payment, PaymentChange } from "./payments.types.ts"
+import type {
+	Payment,
+	PaymentChange,
+	PaymentReceiptChange,
+} from "./payments.types.ts"
 
 class PaymentsService {
 	get = async (params: GetParams = {}): Promise<Response<Payment>> => {
@@ -25,6 +29,13 @@ class PaymentsService {
 		return response.data
 	}
 
+	createReceipt = async (
+		form: PaymentReceiptChange
+	): Promise<ResponseSingleData<Payment>> => {
+		const response = await api.post("/receipts", form)
+		return response.data
+	}
+
 	edit = async (
 		form: Record<string, unknown>
 	): Promise<ResponseSingleData<Payment>> => {
@@ -34,6 +45,11 @@ class PaymentsService {
 
 	delete = async (id: number): Promise<ResponseSingleData<void>> => {
 		const response = await api.delete(`/payments/${id}`)
+		return response.data
+	}
+
+	deleteReceipt = async (id: number): Promise<ResponseSingleData<void>> => {
+		const response = await api.delete(`/receipts/${id}`)
 		return response.data
 	}
 }
