@@ -7,7 +7,9 @@ type MapSearch = {
 	map?: string | number
 }
 
-export const Route = createFileRoute("/_layout/d/$districtId/m/$marketId/_admin-layout/map")({
+export const Route = createFileRoute(
+	"/_layout/d/$districtId/m/$marketId/_admin-layout/map"
+)({
 	component: RouteComponent,
 	validateSearch: (search: MapSearch) => search,
 })
